@@ -1,6 +1,6 @@
-# LUNIX — Registro de Shorts
+# LUNEX — Registro de Shorts
 
-Registro dos Shorts do canal (3 por dia: 10:00, 15:00 e 20:00). A skill `lunix` nunca repete um tema ou corte já usado.
+Registro dos Shorts do canal (3 por dia: 10:00, 15:00 e 20:00). A skill `lunex` nunca repete um tema ou corte já usado.
 
 **Tipos:** Notícia, Corte, Análise, Curiosidade. **Status:** `ideia` → `agendado` → `publicado`.
 

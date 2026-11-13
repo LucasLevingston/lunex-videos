@@ -11,6 +11,7 @@ Animação 2D vertical (1080x1920). O Ruan, vendedor de abacaxi que não toma ba
 | `estado.json` | onde a história está: dia, chance, ajustes do Ruan, histórico, fatos, ganchos |
 | `fila.json` | episódios prontos e agendados (links dos vídeos nas branches `upload-*`) |
 | `config.json` | marca do Metricool (`metricool_blogId`), redes e horários |
+| `arvore.md` | **trilha da história**: votações dos Dias 1–3 e banco de votações de cada ato até o Dia 30 (siga ao escolher e escrever) |
 | `referencia/` | estudo do formato e storyboard original |
 
 Os vídeos sobem em branches temporárias `upload-diaNN` só até o Metricool copiar.

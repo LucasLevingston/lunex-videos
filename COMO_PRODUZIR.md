@@ -12,7 +12,7 @@ Tudo mora no repositório `LucasLevingston/lunex-videos` (público). Leia lá `R
 ## 0. Preparar
 1. `add_repo` LucasLevingston/lunex-videos (push) e `git clone --depth 1` em `/home/claude/lunex-videos`. Antes de começar, `git pull`.
 2. `bash setup.sh` (instala a voz Kokoro pm_santa, fonte e dependências; baixa ~350 MB de modelo do GitHub).
-3. Leia `config.json`, `estado.json`, `fila.json` e os `episodio.json` dos 2 últimos dias (são o modelo de tom e de cena).
+3. Leia `arvore.md` (trilha da história), `config.json`, `estado.json`, `fila.json` e os `episodio.json` dos 2 últimos dias (são o modelo de tom e de cena).
 
 ## 1. Ver se precisa produzir
 - Itens da `fila.json` com status `pronto` ainda não agendados: se já houver **3 ou mais**, não produza; vá direto ao passo 7 e encerre.

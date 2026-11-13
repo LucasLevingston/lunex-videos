@@ -1,0 +1,11 @@
+assets/kokoro.onnx
+assets/voices.bin
+.cache_atores/
+episodios/*/cenas/
+episodios/*/teste/
+episodios/*/voz/
+episodios/*/video_mudo.mp4
+episodios/*/audio.wav
+episodios/*/video.mp4
+episodios/*/thumb.jpg
+__pycache__/

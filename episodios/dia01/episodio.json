@@ -1,0 +1,302 @@
+{
+ "dia": 1,
+ "dias_restantes": 30,
+ "chance": 0,
+ "chance_fim": 0,
+ "resultado": null,
+ "titulo": "30 dias pro Ruan · Dia 1",
+ "thumb_ator": "ruan:em_pe:suando",
+ "legenda_post": "Dia 1 de 30 🍍 O Ruan tem 30 dias pra conquistar a Bia, a médica do posto, antes dela se mudar pra São Paulo... e ele não toma banho desde não sei quando. VOCÊ decide o que ele faz.\n\nComenta UMA palavra: CEDO ou BANHO.\nA mais comentada acontece no próximo episódio, e o que mudar fica mudado.\n\nSegue pra não perder o Dia 2 👀\n\n#30diaspororuan #vocedecide #animacao #historinha #humor",
+ "cenas": [
+  {
+   "tipo": "cena",
+   "fundo": "banca_abacaxi",
+   "fala": "Esse é o Ruan.",
+   "min": 3.0,
+   "atores": [
+    {
+     "id": "ruan:rede:sono",
+     "x": 550,
+     "y": 1790,
+     "escala": 0.9,
+     "balanca": true
+    }
+   ],
+   "tags": [
+    {
+     "texto": "12:07",
+     "x": 190,
+     "y": 300,
+     "t": 0.2,
+     "cor": "amarelo",
+     "tam": 64
+    }
+   ],
+   "camera": {
+    "zoom": [
+     1.0,
+     1.06
+    ],
+    "foco": [
+     540,
+     1300
+    ]
+   },
+   "sons": [
+    [
+     0.0,
+     "ronco"
+    ],
+    [
+     1.4,
+     "ronco"
+    ]
+   ]
+  },
+  {
+   "tipo": "cena",
+   "fundo": "banca_abacaxi",
+   "fala": "Vende abacaxi e acorda meio-dia.",
+   "min": 3.0,
+   "atores": [
+    {
+     "id": "ruan:rede:sono",
+     "x": 550,
+     "y": 1790,
+     "escala": 0.9,
+     "balanca": true
+    },
+    {
+     "id": "galo:cantando",
+     "x": 260,
+     "y": 1760,
+     "escala": 0.45,
+     "entra": "esquerda",
+     "dur_entrada": 0.5,
+     "troca": [
+      {
+       "t": 1.4,
+       "id": "galo:desistindo"
+      }
+     ],
+     "sai": {
+      "t": 1.9,
+      "para": "esquerda",
+      "dur": 0.8
+     }
+    }
+   ],
+   "camera": {
+    "zoom": [
+     1.18,
+     1.14
+    ],
+    "foco": [
+     540,
+     1350
+    ]
+   },
+   "sons": [
+    [
+     0.3,
+     "galo"
+    ]
+   ]
+  },
+  {
+   "tipo": "cena",
+   "fundo": "banca_abacaxi",
+   "fala": "O último banho? Ninguém lembra.",
+   "min": 3.0,
+   "desfoque_fundo": 10,
+   "atores": [
+    {
+     "id": "coroa:julgando",
+     "x": 540,
+     "y": 1020,
+     "escala": 0.855,
+     "centro": true,
+     "entra": "pop"
+    }
+   ],
+   "tags": [
+    {
+     "texto": "...",
+     "x": 820,
+     "y": 520,
+     "t": 1.2,
+     "tam": 70
+    }
+   ],
+   "camera": {
+    "punch": [
+     1.1,
+     0.08
+    ],
+    "foco": [
+     540,
+     1000
+    ]
+   },
+   "sons": [
+    [
+     1.3,
+     "thud"
+    ]
+   ]
+  },
+  {
+   "tipo": "cena",
+   "fundo": "banca_abacaxi",
+   "fala": "E há cinco anos ele é apaixonado pela Bia, a médica do posto.",
+   "min": 4.4,
+   "atores": [
+    {
+     "id": "bia:em_pe:sorrindo",
+     "x": 780,
+     "y": 1680,
+     "escala": 0.95,
+     "entra": "direita",
+     "dur_entrada": 1.4,
+     "troca": [
+      {
+       "t": 2.6,
+       "id": "bia:acenando:sorrindo"
+      }
+     ]
+    },
+    {
+     "id": "ruan:em_pe:neutro",
+     "x": 270,
+     "y": 1680,
+     "escala": 0.95,
+     "troca": [
+      {
+       "t": 0.9,
+       "id": "ruan:escondido:susto"
+      }
+     ],
+     "pula": [
+      0.9
+     ]
+    }
+   ],
+   "tags": [
+    {
+     "texto": "DRA. BIA",
+     "x": 780,
+     "y": 640,
+     "t": 1.6,
+     "tam": 46,
+     "cor_texto": "azul"
+    }
+   ],
+   "efeitos": [
+    "coracoes"
+   ]
+  },
+  {
+   "tipo": "story",
+   "fala": "Até hoje de manhã.",
+   "min": 4.1,
+   "usuario": "dra.bia",
+   "desenho": "caixa",
+   "linhas": [
+    "DIA 30 EU ME MUDO",
+    "PRA SÃO PAULO!",
+    "nova vaga no hospital"
+   ]
+  },
+  {
+   "tipo": "cena",
+   "fundo": "rua_dona_zefa",
+   "fala": "A Dona Zefa já espalhou pra rua inteira.",
+   "min": 3.1,
+   "atores": [
+    {
+     "id": "zefa:fofocando",
+     "x": 212,
+     "y": 1037,
+     "escala": 0.372
+    }
+   ],
+   "camera": {
+    "zoom": [
+     1.0,
+     2.1
+    ],
+    "zoom_em": 0.5,
+    "foco": [
+     250,
+     850
+    ]
+   },
+   "tags": [
+    {
+     "texto": "A DOUTORA BIA",
+     "x": 640,
+     "y": 1260,
+     "t": 0.5,
+     "tam": 84,
+     "rot": 4
+    },
+    {
+     "texto": "VAI EMBORA!!",
+     "x": 640,
+     "y": 1400,
+     "t": 0.75,
+     "tam": 96,
+     "cor": "vermelho",
+     "cor_texto": "branco"
+    }
+   ],
+   "legenda_y": 1660
+  },
+  {
+   "tipo": "close",
+   "cor": "vermelho",
+   "id": "ruan:cabeca:suando",
+   "escala": 0.8,
+   "texto": "30 DIAS",
+   "fala": "O Ruan tem trinta dias pra conquistar a Bia. Mas quem decide o que ele faz é você.",
+   "min": 5.5
+  },
+  {
+   "tipo": "cards",
+   "titulo": "COMO FUNCIONA",
+   "ator": "ruan:em_pe:neutro",
+   "fala": "Funciona assim. Todo dia duas escolhas. A palavra mais comentada acontece. E o que mudar fica mudado.",
+   "itens": [
+    [
+     "TODO DIA,",
+     "DUAS ESCOLHAS."
+    ],
+    [
+     "A PALAVRA MAIS COMENTADA",
+     "ACONTECE."
+    ],
+    [
+     "O QUE MUDAR,",
+     "FICA MUDADO."
+    ]
+   ]
+  },
+  {
+   "tipo": "votacao",
+   "fala": "Hoje você decide. Acordar cedo ou tomar banho?",
+   "fim": "Comenta uma palavra. Daqui a pouco tem o dia dois.",
+   "a": {
+    "palavra": "CEDO",
+    "sub": "acordar 5h",
+    "id": "ruan:cabeca:sono",
+    "icone": "despertador"
+   },
+   "b": {
+    "palavra": "BANHO",
+    "sub": "tomar banho",
+    "id": "ruan:cabeca:vergonha",
+    "icone": "chuveiro"
+   }
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "serie": "30 dias pro Ruan",
+ "metricool_blogId": null,
+ "metricool_redes": [
+  "instagram",
+  "tiktok",
+  "youtube"
+ ],
+ "horarios": [
+  "11:00",
+  "15:00",
+  "19:00"
+ ],
+ "fuso": "America/Sao_Paulo",
+ "obs": "metricool_blogId fica null até o canal ser conectado no Metricool. Com null, os episódios são produzidos e ficam na fila (status pronto) sem agendar.",
+ "canal": "LUNEX (conta será conectada no Metricool)"
+}

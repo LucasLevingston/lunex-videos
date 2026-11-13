@@ -1,0 +1,37 @@
+{
+ "temporada": 1,
+ "dia_atual": 1,
+ "chance": 0,
+ "ajustes": {
+  "banho": false,
+  "acorda_cedo": false,
+  "barba": false,
+  "cabelo": false,
+  "academia": false
+ },
+ "historico": [
+  {
+   "dia": 1,
+   "resumo": "Apresentação: Ruan dorme até meio-dia, não toma banho, é apaixonado há 5 anos pela Bia (médica do posto), que anunciou no story que se muda pra São Paulo no dia 30. Dona Zefa espalhou a notícia.",
+   "votacao": "CEDO x BANHO",
+   "vencedora": null
+  }
+ ],
+ "dias_restantes": 30,
+ "ultima_votacao": {
+  "dia": 1,
+  "a": "CEDO",
+  "b": "BANHO"
+ },
+ "fatos": [
+  "Bia é médica do posto, loira, vai se mudar pra São Paulo no dia 30 (nova vaga no hospital)",
+  "Ruan vende abacaxi na banca 'Abacaxi do Ruan' (R$ 8, docinho)",
+  "Seu Coroa: abacaxi velho de bigode que julga o Ruan em silêncio",
+  "Dona Zefa: vizinha fofoqueira da janela",
+  "Galo Desistente: canta, olha o Ruan dormindo e vai embora"
+ ],
+ "ganchos_abertos": [
+  "O chuveiro do Ruan pode estar quebrado",
+  "A Bia nunca conversou de verdade com o Ruan"
+ ]
+}
